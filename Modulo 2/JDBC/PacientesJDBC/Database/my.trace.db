@@ -1,0 +1,12 @@
+2025-02-06 23:55:47.879247-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PACIENTES" not found (this database is empty); SQL statement:
+INSERT INTO Pacientes (nombre, apellido, domicilio, dni, fecha_alta, usuario, password) VALUES (?, ?, ?, ?, ?, ?, ?) [42104-232]
+2025-02-06 23:57:09.953550-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PACIENTES" not found (this database is empty); SQL statement:
+INSERT INTO PACIENTES (nombre, apellido, domicilio, dni, fecha_alta, usuario, password) VALUES (?, ?, ?, ?, ?, ?, ?) [42104-232]
+2025-02-07 00:02:05.040905-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PACIENTES" not found (this database is empty); SQL statement:
+INSERT INTO Pacientes (nombre, apellido, domicilio, dni, fecha_alta, usuario, password) VALUES (?, ?, ?, ?, ?, ?, ?) [42104-232]
+2025-02-07 00:11:00.584685-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PACIENTES" not found (this database is empty); SQL statement:
+INSERT INTO Pacientes (nombre, apellido, domicilio, dni, fecha_alta, usuario, password) VALUES (?, ?, ?, ?, ?, ?, ?) [42104-232]

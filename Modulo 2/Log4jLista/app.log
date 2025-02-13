@@ -1,0 +1,20 @@
+[2025-01-29 15:42:10] [INFO ] [ListaPromedio:17] La longitud de la lista es mayor a 5
+[2025-01-29 15:42:10] [INFO ] [ListaPromedio:28] El promedio es: 3.5
+[2025-01-29 15:42:10] [INFO ] [ListaPromedio:34] El valor máximo es: 6
+[2025-01-29 15:42:10] [INFO ] [ListaPromedio:35] El valor mínimo es: 1
+[2025-01-29 15:42:10] [INFO ] [ListaPromedio:17] La longitud de la lista es mayor a 5
+[2025-01-29 15:42:10] [INFO ] [ListaPromedio:20] La longitud de la lista es mayor a 10
+[2025-01-29 15:42:10] [INFO ] [ListaPromedio:28] El promedio es: 6.0
+[2025-01-29 15:42:10] [INFO ] [ListaPromedio:34] El valor máximo es: 11
+[2025-01-29 15:42:10] [INFO ] [ListaPromedio:35] El valor mínimo es: 1
+[2025-01-29 15:42:10] [ERROR] [ListaPromedio:11] La lista no tiene elementos
+[2025-01-29 15:42:15] [INFO ] [ListaPromedio:17] La longitud de la lista es mayor a 5
+[2025-01-29 15:42:15] [INFO ] [ListaPromedio:28] El promedio es: 3.5
+[2025-01-29 15:42:15] [INFO ] [ListaPromedio:34] El valor máximo es: 6
+[2025-01-29 15:42:15] [INFO ] [ListaPromedio:35] El valor mínimo es: 1
+[2025-01-29 15:42:15] [INFO ] [ListaPromedio:17] La longitud de la lista es mayor a 5
+[2025-01-29 15:42:15] [INFO ] [ListaPromedio:20] La longitud de la lista es mayor a 10
+[2025-01-29 15:42:15] [INFO ] [ListaPromedio:28] El promedio es: 6.0
+[2025-01-29 15:42:15] [INFO ] [ListaPromedio:34] El valor máximo es: 11
+[2025-01-29 15:42:15] [INFO ] [ListaPromedio:35] El valor mínimo es: 1
+[2025-01-29 15:42:15] [ERROR] [ListaPromedio:11] La lista no tiene elementos

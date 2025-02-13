@@ -1,0 +1,10 @@
+2025-01-20 16:19:58 [INFO] [Leon:18] El leon Simba, Edad: 12, Es alfa: true
+2025-01-20 16:19:58 [INFO] [Leon:23] El leon: Simba esta corriendo
+2025-01-20 16:19:58 [INFO] [Leon:32] El leon Simba tiene mas de 10 años y es alfa
+2025-01-20 16:19:58 [ERROR] [Leon:12] La edad no puede ser negativa para el leon: Bom
+2025-01-20 16:19:58 [ERROR] [Main:16] Error al procesar el león: La edad no puede ser negativa
+2025-01-20 16:19:58 [INFO] [Tigre:18] Tigre creado con nombre: Shere Khan y edad: 15
+2025-01-20 16:19:58 [INFO] [Tigre:22] El Tigre Shere Khan está corriendo
+2025-01-20 16:19:58 [INFO] [Tigre:32] El Tigre Shere Khan tiene más de 10 años
+2025-01-20 16:19:58 [INFO] [Tigre:18] Tigre creado con nombre: Rajah y edad: 8
+2025-01-20 16:19:58 [INFO] [Tigre:22] El Tigre Rajah está corriendo

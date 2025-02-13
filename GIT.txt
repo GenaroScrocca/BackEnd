@@ -1,0 +1,40 @@
+GIT
+
+Comando
+
+.ls = te muestra las carpetas dentro del directorio donde estas
+
+.pwd = te muestra el directorio o carpeta donde estas 
+
+.cd y el nombre de la carpeta a donde queres ir. 
+
+.cd.. te devuelve una carpeta para atras 
+
+.mkdir "blabla"  , crea el directorio o carpeta blabla. 
+
+.git add "blabla" = añadis el archivo para que git lo pueda ver. 
+
+.git status, te muestra el status de lo que stas haciendo. 
+
+.A cada modificacion, tenes que añadirlo con add. 
+
+.rm "blabla" se borra
+
+.git commit -m "decis aca que estas comitiando". 
+
+.git restore "blabla" restaura el delete.
+
+.mv "blabla" "nombreNuevo" cambia nombre del archivo
+
+. git diff ves las modificaciones que todavia no estan en staged
+
+.git diff --staged 
+
+.git log --oneline, te muestra las modificaciones con un hash. 
+
+.git checkout -b "Nombre de la rama" crea la rama 
+
+.cat "blabla" te muestra el contenido del archivo
+
+.git checkout "nombre de la rama" te lleva a la rama 
+
